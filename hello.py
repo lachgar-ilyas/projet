@@ -16,3 +16,4 @@ while not retry:
         print("FIN")
     else:
         print("Choix invalide. Recommencez!")
+        print("1")
